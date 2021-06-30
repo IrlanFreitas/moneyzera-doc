@@ -1,5 +1,7 @@
 # moneyzera-doc
 
+![MoneyZera](./assets/git-banner.svg)
+
 ## Colors
 
     - primary: #03FE60
